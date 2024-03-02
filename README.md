@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadhir00&label=Profile%20views&color=0e75b6&style=flat" alt="kadhir00" /> </p>
 
-- 🔭 I’m currently working on **Switch Tabs Project**
-
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **HTML, Css, Javascript, React and Bootstrap**
 
